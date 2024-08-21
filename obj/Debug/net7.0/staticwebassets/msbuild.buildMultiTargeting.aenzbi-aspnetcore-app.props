@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/aenzbi-aspnetcore-app.props" />
+</Project>
