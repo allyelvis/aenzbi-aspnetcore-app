@@ -1,0 +1,8 @@
+/home/runner/aenzbi-aspnetcore-app/PosEcommerceApp/obj/Debug/net7.0/PosEcommerceApp.csproj.AssemblyReference.cache
+/home/runner/aenzbi-aspnetcore-app/PosEcommerceApp/obj/Debug/net7.0/PosEcommerceApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/aenzbi-aspnetcore-app/PosEcommerceApp/obj/Debug/net7.0/PosEcommerceApp.AssemblyInfoInputs.cache
+/home/runner/aenzbi-aspnetcore-app/PosEcommerceApp/obj/Debug/net7.0/PosEcommerceApp.AssemblyInfo.cs
+/home/runner/aenzbi-aspnetcore-app/PosEcommerceApp/obj/Debug/net7.0/PosEcommerceApp.csproj.CoreCompileInputs.cache
+/home/runner/aenzbi-aspnetcore-app/PosEcommerceApp/obj/Debug/net7.0/PosEcommerceApp.MvcApplicationPartsAssemblyInfo.cache
+/home/runner/aenzbi-aspnetcore-app/PosEcommerceApp/obj/Debug/net7.0/PosEcommerceApp.RazorAssemblyInfo.cache
+/home/runner/aenzbi-aspnetcore-app/PosEcommerceApp/obj/Debug/net7.0/PosEcommerceApp.RazorAssemblyInfo.cs
